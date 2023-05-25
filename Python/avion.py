@@ -13,3 +13,4 @@ class Airbus(Avion):
 class Boeing(Avion):
     def pays(self):
         print("USA")
+
